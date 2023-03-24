@@ -99,8 +99,7 @@ class _HomePageState extends State<HomePage> {
                 ),
                 Center(
                   child: Container(
-                    width: Get.width * 0.36,
-                    color: Colors.transparent,
+                    height: Get.height * 0.265,
                     child: PageView.builder(
                       itemBuilder: (BuildContext context, int index) {
                         return Image(
