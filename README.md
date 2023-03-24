@@ -1,3 +1,3 @@
 # apple_watch_shop
 Apple Watch Shop UI made with FLutter
-(images/preview.gif)
+<img width="960" alt="watch" src="images/preview.mp4">
